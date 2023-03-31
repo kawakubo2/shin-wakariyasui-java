@@ -1,7 +1,5 @@
 package chapter22;
 
-import javax.swing.InputMap;
-
 import lib.Input;
 
 public class Q22_3 {

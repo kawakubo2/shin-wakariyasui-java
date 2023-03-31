@@ -8,5 +8,7 @@ public class StringJoinTest {
 
         String result = String.join(",", a1);
         System.out.println(result);
+        System.out.println(a2);
+        System.out.println(a3);
     }
 }
